@@ -1,6 +1,6 @@
 
 
-<h3 align="center">AI-Powered Workplace Safety & PPE Compliance Monitoring</h3>
+<h3 align="center">AI-Based Worker Safety Monitoring System</h3>
 
 <p align="center">
   Computer Vision • YOLO26 • Worker Detection • Multi-Object Tracking • PPE Detection • Safety Analytics

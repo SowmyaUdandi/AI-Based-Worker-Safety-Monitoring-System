@@ -16,8 +16,6 @@
 
 > By combining YOLO26 object detection, ByteTrack multi-object tracking, and PPE association techniques, the application provides an automated approach to workplace safety monitoring.
 
-> The system processes video footage, generates annotated visual results, and displays safety-related information and compliance statistics to help improve workplace safety awareness.
-
 ## ✨ Key Features
 
 - Detects workers in video streams using a custom-trained YOLO26 model
